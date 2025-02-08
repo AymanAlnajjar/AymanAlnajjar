@@ -10,13 +10,13 @@ strong focus on both front-end and back-end development.
 
 💻 Tech Stack
 
-🔹 Frontend: HTML, CSS, JavaScript, React
+🔹 Frontend: HTML, CSS, JavaScript, React.
 
-🔹 Backend:PHP(Laravel), Node.js
+🔹 Backend:PHP(Laravel), Node.js.
 
-🔹 Database: MySQL, PostgreSQL, MongoDB
+🔹 Database: MySQL, PostgreSQL, MongoDB.
 
-🔹 OtherTools: Git,Docker, REST APIs
+🔹 OtherTools: Git,Docker, REST APIs.
 
 🚀 I'm Working On I'm always exploring new technologies and working on exciting
 projects to enhance my skills. My main focus is on web development, API
