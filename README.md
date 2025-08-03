@@ -1,23 +1,57 @@
-# Hi there, I'm Ayman Alnajjar! 👋
+# 👋 Hi there, I'm Ayman Alnajjar.
+
+Welcome to my GitHub! I'm a **Junior Data Scientist** with a passion for turning data into meaningful insights. Whether it's cleaning messy datasets, visualizing trends, or building predictive models, I love every part of the data science journey.
 
 ---
 
-🌍 About Me I'm a passionate Full-Stack Web Developer from Gaza, Palestine with
-a Computer Science degree. I specialize in building web applications with a
-strong focus on both front-end and back-end development.
+## 📖 About Me
+
+- 🔭 I’m currently working on personal data science projects to sharpen my skills in real-world scenarios.  
+- 🌱 I’m constantly learning more about **machine learning**, **data engineering**, and **deployment of models**.  
+- 🤝 I’m open to collaboration on data science challenges, open-source projects, and analytics tools.  
+- ⚡ Fun fact: I enjoy finding patterns in everyday life and applying data thinking to random problems.
 
 ---
 
-💻 Tech Stack
+## 💼 Bio
 
-🔹 Frontend: HTML, CSS, JavaScript, React.
+**Role:** Junior Data Scientist  
+**Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
+**Interests:** Machine Learning · Data Visualization · Predictive Modeling · NLP  
+**Soft Skills:** Critical Thinking · Problem Solving · Communication · Curiosity  
 
-🔹 Backend:PHP(Laravel), Node.js.
+---
 
-🔹 Database: MySQL, PostgreSQL, MongoDB.
+## 🧠 Skills
 
-🔹 OtherTools: Git,Docker, REST APIs.
+- **Programming:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
+- **Data Wrangling & Cleaning**  
+- **Exploratory Data Analysis (EDA)**  
+- **Machine Learning Models**  
+- **Data Visualization**  
+- **Version Control with Git**  
 
-🚀 I'm Working On I'm always exploring new technologies and working on exciting
-projects to enhance my skills. My main focus is on web development, API
-integrations, and scalable applications.
+---
+
+## 📂 Projects
+
+Here are a few highlights from my repositories:
+
+- 📊 **Customer Segmentation with K-Means** – Identifying customer clusters using demographic data  
+- 📈 **Stock Market Prediction** – Using linear regression and time series analysis  
+- 🧹 **Data Cleaning Pipeline** – Cleaning and processing messy CSV files using Pandas  
+
+Check out my pinned repositories for more!
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Personal Portfolio](https://your-portfolio-link.com) *(optional)*  
+- [Email](mailto:your.email@example.com)
+
+---
+
+Thanks for stopping by! Feel free to explore, fork, or reach out 👋
