@@ -1,6 +1,6 @@
 #  Hi there, I'm Ayman Alnajjar.
 
-Welcome to my GitHub! I'm a **Junior Data Scientist** with a passion for turning data into meaningful insights. Whether it's cleaning messy datasets, visualizing trends, or building predictive models, I love every part of the data science journey.
+Welcome to my GitHub! I'm a **Data Scientist** with a passion for turning data into meaningful insights. Whether it's cleaning messy datasets, visualizing trends, or building predictive models, I love every part of the data science journey.
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Junior Data Scientist** with a passion for turning
 
 ## Bio
 
-**Role:** Junior Data Scientist  
+**Role:** Data Scientist  
 **Languages & Tools:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook  
 **Interests:** Machine Learning · Data Visualization · Predictive Modeling · NLP  
 **Soft Skills:** Critical Thinking · Problem Solving · Communication · Curiosity  
