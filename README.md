@@ -38,8 +38,7 @@ Welcome to my GitHub! I'm a **Data Scientist** with a passion for turning data i
 
 Here are a few highlights from my repositories:
 
--  [Predction Of Sales](https://github.com/AymanAlnajjar/Prediction-of-Product-Sales) – Identifying customer clusters using demographic data   
-
+-  [Predction Of Sales](https://github.com/AymanAlnajjar/Prediction-of-Product-Sales) – This project focuses on building a sales prediction model for food items sold across multiple retail stores   
 
 ---
 
