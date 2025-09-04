@@ -38,10 +38,8 @@ Welcome to my GitHub! I'm a **Data Scientist** with a passion for turning data i
 
 Here are a few highlights from my repositories:
 
--  **Customer Segmentation with K-Means** – Identifying customer clusters using demographic data   
--  **Data Cleaning Pipeline** – Cleaning and processing messy CSV files using Pandas  
+-  [Predction Of Sales](https://github.com/AymanAlnajjar/Prediction-of-Product-Sales) – Identifying customer clusters using demographic data   
 
-Check out my pinned repositories for more!
 
 ---
 
